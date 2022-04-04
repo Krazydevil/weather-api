@@ -1,0 +1,49 @@
+.text_field{
+
+    width: 40%;
+}
+
+.container{
+    height: 80vh;
+    width: 50%;
+    /* align-items: center;
+    justify-content: center; */
+    margin: auto;
+    text-align: center;
+    /* gap: 4rem; */
+}
+
+.climate{
+    margin-right: 8rem;
+    font-size: 2rem;
+}
+.wind_speed{
+    font-size: 2rem;
+}
+
+.location{
+    margin-left: -3rem;
+    font-size: 2rem;
+
+}
+
+.temperature{
+    margin-top: 2rem;
+    font-size: 5rem;
+    margin-left: -3rem;
+}
+
+.fore_cast_wind{
+    margin-left: -16rem;
+    font-size: 2rem;
+}
+.fore_cast_temp{
+    margin-left: -16rem;
+    font-size: 2rem;
+}
+
+.tomorrow_reading{
+    margin-left: -16rem;
+    font-size: 2rem;
+    
+}
